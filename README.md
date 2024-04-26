@@ -1,11 +1,16 @@
-# Quiz_Application
-this is project bassed on quizs
+**Quiz Application**
 
-this quizs is mcqs 
+Description:
 
-you will havce a gtime limit 20 seconds 
+This is a simple quiz application built in Java using **Swing** for the GUI. It allows users to log in, view quiz rules, 
+answer multiple-choice questions, and see their score at the end. The application features a **timer** for each question 
+and a **50-50** lifeline option.
 
-here youj can use life lines like:
+Features:
 
-      #50-50 chance
-      * ("at present this is the only life line we are using we will develop it further with some other lifelines")
+1) User login functionality
+2) Rules display before starting the quiz
+3) Timer for each question
+4) 50-50 lifeline option
+5) Score calculation at the end of the quiz
+6) Ability to play again
